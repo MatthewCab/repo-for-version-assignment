@@ -11,3 +11,7 @@
 
 * Using multiple frame text files that interact with the speedCalculations.py file
 * Currently using up to 50 text files
+
+### Implementation
+
+* speedCalculations.py uses text files to obtain vehicle details to calculate distances between vehicles and a reference point and uses the distance values to calculate speeds for every frame
